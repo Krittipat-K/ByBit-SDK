@@ -1,0 +1,2 @@
+python-dotenv
+pycrypto==2.6.1
